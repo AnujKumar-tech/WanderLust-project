@@ -1,6 +1,6 @@
-# StayYaar
+# WanderLust
 
-StayYaar is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, view locations on interactive maps, and share reviews.
+WanderLust is a full-stack travel accommodation platform that allows users to discover destinations, create property listings, upload images, view locations on interactive maps, and share reviews.
 Built using the MVC Architecture, the project demonstrates backend development, authentication, database design, cloud storage integration, and geolocation services.
 
 ---
