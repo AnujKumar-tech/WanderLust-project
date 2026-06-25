@@ -90,14 +90,10 @@ Through this project, I gained practical experience with:
 ---
 
 ## Live Demo
-
+https://wanderlust-project-y1ag.onrender.com/
 
 ---
 
-## GitHub Repository
-
-
 ## Developer
 
-**Daman**
 Aspiring Software Developer passionate about building scalable web applications and creating intuitive user experiences.
