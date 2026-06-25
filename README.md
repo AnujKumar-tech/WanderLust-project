@@ -90,7 +90,7 @@ Through this project, I gained practical experience with:
 ---
 
 ## Live Demo
-https://wanderlust-project-y1ag.onrender.com/
+https://wanderlust-project-y1ag.onrender.com/listings
 
 ---
 
